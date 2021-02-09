@@ -43,3 +43,13 @@ class Three extends Two
 		System.out.println("a =" + a + "b="+b);
 	}
 }
+
+class Mainmulti
+{
+	public static void main(String []args)
+	{
+		Three th =  new Three();
+		th.third(10,20,30,40,50,60);
+		th.display();
+	}
+}
