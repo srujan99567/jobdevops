@@ -1,6 +1,7 @@
 # jobdevops
 class One
 {
+
 	int a,b;
 	void first(int x,int y)
 	{
